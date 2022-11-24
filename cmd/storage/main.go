@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 )
-import "github.com/robertgarayshin/ozonLearning/internal/storage"
+import "github.com/robertgarayshin/ozonLearning/storage"
 
 func main() {
 	st := storage.NewStorage()
