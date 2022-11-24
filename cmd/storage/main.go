@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"log"
+	"ozonLearning/storage"
 )
-import "github.com/robertgarayshin/ozonLearning/storage"
 
 func main() {
 	st := storage.NewStorage()
