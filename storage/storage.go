@@ -3,7 +3,7 @@ package storage
 import (
 	"fmt"
 	"github.com/google/uuid"
-	"ozonLearning/file"
+	"github.com/robertgarayshin/ozonLearning/file"
 )
 
 type Storage struct {
